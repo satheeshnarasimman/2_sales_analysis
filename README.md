@@ -1,4 +1,4 @@
-# python-homework
+# sales_analysis
 
 This repository contains the Week 2 homework assigments- PyBank and PyRamen.
 
